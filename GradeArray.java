@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class GradeArray here.
+ *
  *
  * @Ahmed Al-qtaabi
  * @version 12/3/23
