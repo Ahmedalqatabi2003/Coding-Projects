@@ -1,6 +1,6 @@
 
 /**
- * CS 151 PROGRAM #10 SLOTMACHINE
+ *  SLOTMACHINE
  *
  * @author (Ahmed Al-qatabi)
  * @version (11/15/23)
